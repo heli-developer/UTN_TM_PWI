@@ -1,0 +1,8 @@
+ control + c = copiar
+    control + v = pegar
+    control + x = cortar
+    control + z = ir atras | deshacer
+    control + y = ir adelante | rehacer
+    ALT + SHIFT + A | Control + K + C = Comentario automatico
+    Otra forma de hacer comentarios: control + /
+    ALT + SHIFT =  cambiar idioma del teclado
